@@ -35,8 +35,8 @@ Houchser is a web application that allows users to book reliable service provide
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/houchser.git
-    cd houchser
+    git clone https://github.com/matthsworld/Houchser-alx_webstack_project.git
+    cd Houchser-alx_webstack_project
     ```
 
 2. Set up the backend:
